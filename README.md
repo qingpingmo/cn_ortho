@@ -17,6 +17,7 @@ python ogbdataset.py
 ##Cora:
 Modify the contents of the ortho_cn/Arg/args_tempo.py as
 
+```sh
 class Args:
     def __init__(self):
         self.use_valedges_as_input = True
@@ -69,6 +70,6 @@ class Args:
         self.K=8     #Hop you can modify
 
 args = Args()
-
+```
 
 
