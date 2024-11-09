@@ -14,7 +14,7 @@ python ogbdataset.py
 
 ### Running
 
-##Cora:
+### Cora:
 Modify the contents of the ortho_cn/Arg/args_tempo.py as
 
 ```sh
@@ -72,7 +72,7 @@ class Args:
 args = Args()
 ```
 
-##Citeseer:
+### Citeseer:
 Modify the contents of the ortho_cn/Arg/args_tempo.py as
 
 ```sh
@@ -130,7 +130,7 @@ class Args:
 args = Args()
 ```
 
-##Pubmed:
+### Pubmed:
 Modify the contents of the ortho_cn/Arg/args_tempo.py as
 
 ```sh
@@ -189,7 +189,7 @@ args = Args()
 ```
 
 
-##collab:
+### collab:
 Modify the contents of the ortho_cn/Arg/args_tempo.py as
 
 ```sh
@@ -247,7 +247,7 @@ class Args:
 args = Args()
 ```
 
-##ppa:
+### ppa:
 Modify the contents of the ortho_cn/Arg/args_tempo.py as
 
 ```sh
@@ -305,7 +305,7 @@ class Args:
 args = Args()
 ```
 
-##citation2:
+### citation2:
 Modify the contents of the ortho_cn/Arg/args_tempo.py as
 
 ```sh
@@ -363,7 +363,7 @@ class Args:
 args = Args()
 ```
 
-##ddi:
+### ddi:
 Modify the contents of the ortho_cn/Arg/args_tempo.py as
 
 ```sh
@@ -421,7 +421,8 @@ class Args:
 args = Args()
 ```
 
-###if done,run:
+### if done,run:
 ```sh
 python main.py
 ```
+### Option2 :Also you can run Jupyternotebook after modifying class Args as above.
